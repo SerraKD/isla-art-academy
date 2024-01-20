@@ -2,17 +2,27 @@
 
 link to live deployed project
 
-The Isla Art Academy website is a business website designed to represent the identity of the Isla Art Academy and provide services for people who are in search of art classes. The academy provides lessons to juniors, adults, and seniors so the Website's target group is people of all ages. The website will be useful for users who want to learn more about the school, check the schedule of lessons, and send an application form to join studies.
+The Isla Art Academy website is created to showcase academy's the identity and offer painting classes to interested individuals. The website is beneficial for users who want to learn more about the school, view the class schedule, and send an application form to join studies. The academy offers lessons to everyone, from beginners to advanced students of all ages.
 
-## Planning Stage
+## User Experience (UX)
 
-### Site Aims
+### Site Goals
+
+- User-friendly website structure to ensure people of all ages easily access the information they need.
+- Learn about our lesson schedule and details of the program.
+- Fill out a signup form to join classes and get in touch with the academy.
 
 ### Target Audiences
 
+- Individuals of all ages searching for painting lessons.
+- Individuals of all ages interested in art.
+
 ### User Stories 
 
-### Planning Stage - How I will achieve this
+- As a user, I want to navigate easily through the website and find clear information about pages' subject matter.
+- I want to find instructive, straightforward information about the services provided.
+- I expect easy access to social media links and contact information.
+- I should be able to sign up for services effortlessly.
 
 ## Features
 

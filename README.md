@@ -1,7 +1,5 @@
 # Isla Art Academy
 
-link to live deployed project
-
 The Isla Art Academy website is created to showcase academy's the identity and offer painting classes to interested individuals. The website is beneficial for users who want to learn more about the school, view the class schedule, and send an application form to join studies. The academy offers lessons to everyone, from beginners to advanced students of all ages.
 
 ## User Experience (UX)

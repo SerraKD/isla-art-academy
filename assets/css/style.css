@@ -29,13 +29,14 @@ header {
     align-items: center;
 }
 
-/* Styles logo */
-#logo {
+/* Styles heading */
+#h1 {
     font-family: "Libre Baskerville", serif;
     height: auto;
-    width: 40px;
+    width: 100 ;
     display: flex;
-    align-items: center;
+    flex-direction: row;
+    align-content: center;
     padding: 5px 0;
 }
 
@@ -43,6 +44,7 @@ header {
     display: flex;
     float: right;
     padding: 0 5px;
+
 }
 
 /* Main Content */

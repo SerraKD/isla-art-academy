@@ -7,7 +7,6 @@
     margin: 0;
     box-sizing: border-box;
 }
-
 /* General Styles */
 body {
     min-height: 100vh;
@@ -23,6 +22,17 @@ header {
     position: fixed;
     width: 100%;
     padding: 0 1rem;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#nav li {
+    display: flex;
+    float: right;
+    padding: 0 5px;
 }
 
 #logo {

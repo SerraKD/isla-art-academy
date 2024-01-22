@@ -20,9 +20,12 @@ body {
 /* Header */
 header {
     background-color: #E6FFFD;
+    position: fixed;
+    width: 100%;
+    padding: 0 1rem;
 }
 
-h1 {
+#logo {
     font-family: "Libre Baskerville", serif;
 }
 

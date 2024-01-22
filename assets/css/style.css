@@ -29,16 +29,21 @@ header {
     align-items: center;
 }
 
+/* Styles logo */
+#logo {
+    font-family: "Libre Baskerville", serif;
+    height: auto;
+    width: 40px;
+    display: flex;
+    align-items: center;
+    padding: 5px 0;
+}
+
 #nav li {
     display: flex;
     float: right;
     padding: 0 5px;
 }
-
-#logo {
-    font-family: "Libre Baskerville", serif;
-}
-
 
 /* Main Content */
 main {

@@ -51,6 +51,7 @@ h1 {
 /* Main Content */
 main {
     background-color: #D0FFD6;
+    margin-top: 50px;
     /* Push footer down */
     flex: 1 0 auto;
 }

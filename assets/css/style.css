@@ -43,7 +43,7 @@ header {
 
 #nav li {
     display: flex;
-    float: right;
+    float: left;
     padding: 0 5px;
 
 }

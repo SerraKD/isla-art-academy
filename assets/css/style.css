@@ -28,6 +28,7 @@ header {
     flex-wrap: nowrap;
     justify-content: space-between;
     align-items: center;
+    box-shadow: 0 2px 2px #e3e9e9;
 }
 
 /* Styles heading */

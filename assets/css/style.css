@@ -62,13 +62,16 @@ main {
     height: 95vh;
     width: 100%;
     background: url(../images/hero.jpg) no-repeat center center/cover;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
     
 }
 /* Styles the Hero heading */ 
 #hero h2 {
-    padding: 100px 0;
     text-align: center;
     font-size: xxx-large;
+    align-self: center;
 }
 
 /* About us section */

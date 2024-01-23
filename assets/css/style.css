@@ -59,7 +59,7 @@ main {
 
 /* Hero img Section */
 #hero {
-    height: 100vh;
+    height: 95vh;
     width: 100%;
     background: url(../images/hero.jpg) no-repeat center center/cover;
     

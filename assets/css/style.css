@@ -31,20 +31,20 @@ header {
 }
 
 /* Styles heading */
-#h1 {
+h1 {
     font-family: "Libre Baskerville", serif;
     height: auto;
     width: 100%;
     display: flex;
     flex-direction: row;
     align-content: center;
-    padding: 5px 0;
+    padding: 2px 3px;
 }
 
 #nav li {
     display: flex;
     float: left;
-    padding: 0 5px;
+    padding: 0 4px 0 4px;
 
 }
 

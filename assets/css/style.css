@@ -51,7 +51,7 @@ h1 {
 
 /* Main Content */
 main {
-    background-color: #D0FFD6;
+    background-color: #defff5;
     margin-top: 50px;
     /* Push footer down */
     flex: 1 0 auto;
@@ -63,6 +63,12 @@ main {
     width: 100%;
     background: url(../images/hero.jpg) no-repeat center center/cover;
     
+}
+
+/* About us section */
+#about {
+    width: 100%;
+    margin: 15px auto;
 }
 
 /* Footer */

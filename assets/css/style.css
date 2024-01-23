@@ -57,6 +57,14 @@ main {
     flex: 1 0 auto;
 }
 
+/* Hero img Section */
+#hero {
+    height: 100vh;
+    width: 100%;
+    background: url(../images/hero.jpg) no-repeat center center/cover;
+    
+}
+
 /* Footer */
 footer {
     background-color: #FF9F66;

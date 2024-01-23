@@ -81,6 +81,12 @@ main {
     padding: 0 5px;
 }
 
+/* About Us - General Information */
+#general-info {
+    margin: 14px auto;
+    padding: 0 2px;
+}
+
 /* Footer */
 footer {
     background-color: #E7C5F4;

@@ -53,6 +53,10 @@ ul {
     font-weight: 600
 }
 
+#menu li {
+    display: flex;
+    padding: 0 6px;
+}
 
 
 /* Main Content */

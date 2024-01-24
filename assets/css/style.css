@@ -110,6 +110,14 @@ main {
     display: flex;
 }
 
+/* Styles Signup section */
+#signup {
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+    padding: 5px 0;
+    justify-content: space-around;
+}
 
 /* Footer */
 footer {

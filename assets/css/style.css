@@ -11,23 +11,6 @@ body {
     font-family: 'Lora', serif;
 }
 
-
-/* Styles navbar */
-#navbar {
-    width:100%
-}
-/* Styles menu */
-#menu {
-    letter-spacing: 2px;
-    font-weight: 600
-}
-
-#menu li {
-    display: flex;
-    flex-wrap: nowrap;
-    float: right;
-    padding: 0 2px;
-}
 /* Header */
 header {
     background-color: #FFFFFF;
@@ -51,13 +34,6 @@ h1 {
     font-style: italic;
     font-weight: 900;
     letter-spacing: 2px;
-}
-
-/* Styles unordered list */
-ul {
-    list-style-type: none;
-    display: flex;
-    flex-direction: row;
 }
 
 /* Main Content */

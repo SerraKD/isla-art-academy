@@ -30,13 +30,17 @@ header {
     align-items: center;
     box-shadow: 0 2px 2px #e3e9e9;
 }
+/* Styles navbar */
+#navbar {
+    width:100%
+}
 
 /* Styles heading */
 h1 {
     font-family: 'Lora', serif;
     color: #4C1000;
     height: auto;
-    width: 100%;
+    width: fit-content;
     font-style: italic;
     font-weight: 900;
     letter-spacing: 2px;
@@ -55,6 +59,8 @@ ul {
 
 #menu li {
     display: flex;
+    flex-wrap: nowrap;
+    float: right;
     padding: 0 6px;
 }
 

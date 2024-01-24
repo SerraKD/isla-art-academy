@@ -11,14 +11,6 @@ body {
     font-family: 'Lora', serif;
 }
 
-/* Nav bar styles*/
-
-
-/* Removes dots from list items*/
-#menu li {
-    list-style-type: none;
-}
-
 /* Header */
 header {
     background-color: #FFFFFF;
@@ -40,6 +32,16 @@ h1 {
     font-weight: 900;
     letter-spacing: 2px;
 }
+/* Nav bar styles*/
+#menu {
+    display: flex;
+}
+
+/* Removes dots from list items*/
+#menu li {
+    list-style-type: none;
+}
+
 
 /* Main Content */
 main {

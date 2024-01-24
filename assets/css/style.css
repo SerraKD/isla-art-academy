@@ -108,6 +108,21 @@ main {
 /* Styles Lesson schedule */
 #hours {
     display: flex;
+    background-color: #4C1000;
+    
+}
+/* Styles table rows and datas' */
+td {
+    text-align: left;
+    padding: 4px 10px;
+    color: #FFFFFF;
+
+}
+
+tr {
+    text-align: center;
+    padding: 4px 10px;
+    color: #FFFFFF;
 }
 
 /* Styles Signup section */

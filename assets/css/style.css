@@ -32,6 +32,9 @@ h1 {
 /* Nav bar styles*/
 #menu {
     display: flex;
+    margin: auto;
+    padding: 0 2px;
+    justify-content: space-between;
 }
 
 /* Removes dots from list items*/

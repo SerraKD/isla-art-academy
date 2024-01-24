@@ -41,6 +41,11 @@ h1 {
     font-weight: 900;
 }
 
+/* Styles unordered list */
+ul {
+    list-style-type: none;
+}
+
 #nav li {
     float: left;
 }

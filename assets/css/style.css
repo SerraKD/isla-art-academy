@@ -109,14 +109,14 @@ main {
 #hours {
     display: flex;
     background-color: #4C1000;
-    
+    width: fit-content;
+
 }
 /* Styles table rows and datas' */
 td {
     text-align: left;
     padding: 4px 10px;
     color: #FFFFFF;
-
 }
 
 tr {

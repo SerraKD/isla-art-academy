@@ -39,6 +39,7 @@ h1 {
     width: 100%;
     font-style: italic;
     font-weight: 900;
+    letter-spacing: 2px;
 }
 
 /* Styles unordered list */

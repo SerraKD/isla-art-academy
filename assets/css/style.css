@@ -11,6 +11,14 @@ body {
     font-family: 'Lora', serif;
 }
 
+/* Nav bar styles*/
+
+
+/* Removes dots from list items*/
+#menu li {
+    list-style-type: none;
+}
+
 /* Header */
 header {
     background-color: #FFFFFF;

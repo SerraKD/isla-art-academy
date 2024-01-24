@@ -14,12 +14,9 @@ body {
 /* Header */
 header {
     background-color: #FFFFFF;
-    position: fixed;
     width: 100%;
     padding: 0 1rem;
     display: flex;
-    flex-direction: row;
-    flex-wrap: nowrap;
     justify-content: space-between;
     align-items: center;
     box-shadow: 0 2px 2px #e3e9e9;

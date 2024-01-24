@@ -17,6 +17,23 @@ body {
     font-family: 'Lora', serif;
 }
 
+
+/* Styles navbar */
+#navbar {
+    width:100%
+}
+/* Styles menu */
+#menu {
+    letter-spacing: 2px;
+    font-weight: 600
+}
+
+#menu li {
+    display: flex;
+    flex-wrap: nowrap;
+    float: right;
+    padding: 0 2px;
+}
 /* Header */
 header {
     background-color: #FFFFFF;
@@ -29,10 +46,6 @@ header {
     justify-content: space-between;
     align-items: center;
     box-shadow: 0 2px 2px #e3e9e9;
-}
-/* Styles navbar */
-#navbar {
-    width:100%
 }
 
 /* Styles heading */
@@ -52,20 +65,6 @@ ul {
     display: flex;
     flex-direction: row;
 }
-
-/* Styles menu */
-#menu {
-    letter-spacing: 2px;
-    font-weight: 600
-}
-
-#menu li {
-    display: flex;
-    flex-wrap: nowrap;
-    float: right;
-    padding: 0 2px;
-}
-
 
 /* Main Content */
 main {

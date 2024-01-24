@@ -47,9 +47,13 @@ ul {
     list-style-type: none;
 }
 
-#nav li {
-    float: left;
+/* Styles menu */
+#menu {
+    letter-spacing: 2px;
+    font-weight: 600
 }
+
+
 
 /* Main Content */
 main {

@@ -19,7 +19,7 @@ body {
 
 /* Header */
 header {
-    background-color: #E6FFFD;
+    background-color: #FFFFFF;
     position: fixed;
     width: 100%;
     padding: 0 1rem;
@@ -53,7 +53,7 @@ h1 {
 
 /* Main Content */
 main {
-    background-color: #defff5;
+    background-color: #FFFFFF;
     margin-top: 50px;
     /* Push footer down */
     flex: 1 0 auto;

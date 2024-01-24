@@ -105,6 +105,11 @@ main {
     margin: 14px auto;
     padding: 0 2px;
 }
+/* Styles Lesson schedule */
+#hours {
+    display: flex;
+}
+
 
 /* Footer */
 footer {

@@ -28,6 +28,7 @@ h1 {
     font-style: italic;
     font-weight: 900;
     letter-spacing: 2px;
+    margin: auto;
 }
 /* Nav bar styles*/
 #menu {
@@ -46,7 +47,7 @@ h1 {
 /* Main Content */
 main {
     background-color: #FFFFFF;
-    margin-top: 50px;
+    margin:auto;
     /* Push footer down */
     flex: 1 0 auto;
 }

@@ -144,6 +144,18 @@ footer {
     background-color: #f89f84;
 }
 
+/* Adress */
+#footer-adress {
+    text-align: center;
+    padding: 15px 0;
+}
+
+/* Contact */
+#footer-contact {
+    text-align: center;
+    padding: 5px 0;
+}
+
 /* Styles social network*/
 #social-network {
     display: flex;

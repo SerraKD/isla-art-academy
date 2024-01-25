@@ -144,12 +144,21 @@ footer {
     background-color: #f89f84;
 }
 
-/* Removes dots from social media icons*/
+/* Styles social network*/
+#social-network {
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    padding: 15px 0;
+
+}
+
+/* Removes dots from icons*/
 #social-network li {
     list-style-type: none;
 }
 
-/* Styles social media icons */
+/* Styles icons */
 .fa-brands {
     color: black;
     font-size: x-large;

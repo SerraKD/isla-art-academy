@@ -9,6 +9,7 @@ body {
     flex-direction: column;
     color: black;
     font-family: 'Lato', sans-serif;
+    margin: 0;
 }
 
 /* Header */

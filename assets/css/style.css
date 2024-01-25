@@ -98,22 +98,37 @@ main {
 
 /* Styles Lesson schedule */
 #hours {
-    display: flex;
     background-color: #FBF4CE;
-    width: fit-content;
-
+    width: 100%;
+    border: 5px #4C1000;
+    border-radius: 20%;
+    padding: 5px 5px 25px;
 }
 
-/* Styles table rows and datas' */
+.schedule {
+    width: 100%;
+    border: 5px #4C1000;
+    border-radius: 20px;
+}
+
+.schedule caption {
+    width: 100%;
+    padding-bottom: 15px;
+    color: #4C1000;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+}
+
+/* Styles table datas' and rows */
 td {
-    text-align: left;
-    padding: 4px 10px;
+    text-align: center;
+    padding: 5px 10px;
     color: #4C1000;
 }
 
 tr {
     text-align: center;
-    padding: 4px 10px;
+    padding: 5px 10px;
     color: #4C1000;
 }
 

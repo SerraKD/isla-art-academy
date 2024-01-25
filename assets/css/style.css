@@ -58,6 +58,8 @@ main {
     margin: auto;
     /* Push footer down */
     flex: 1 0 auto;
+    display: flex;
+    flex-direction: column;
 }
 
 /* Hero img Section */

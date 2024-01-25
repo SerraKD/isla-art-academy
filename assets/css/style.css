@@ -20,16 +20,19 @@ body {
 /* Main menu */
 #main-menu {
     display: flex;
+    width: 100%;
     flex-direction: row;
     justify-content: space-between;
+    z-index: 99;
     align-items: baseline;
+    padding-bottom: 3px;
+    box-shadow: 0 4px 4px #550601;
 }
 
 /* Header */
 header {
     background-color: #FFFFFF;
     padding: 0 0.2rem;
-    z-index: 99;
     order: 0;
 }
 

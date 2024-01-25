@@ -54,7 +54,7 @@ h1 {
 /* Removes dots from list items*/
 #menu li {
     list-style-type: none;
-
+    letter-spacing: 4px;
 }
 
 

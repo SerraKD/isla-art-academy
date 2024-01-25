@@ -126,3 +126,8 @@ footer {
 #social-network li {
     list-style-type: none;
 }
+/* Styles social media icons */
+.fa-brands {
+    color: black;
+    font-size: x-large;
+}

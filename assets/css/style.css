@@ -52,6 +52,7 @@ h1 {
     margin: auto;
     padding: 0 2px;
     width: 100%;
+    background-color: #FFFFFF;
 }
 
 /* Removes dots from list items*/
@@ -64,7 +65,7 @@ h1 {
 
 /* Main Content */
 main {
-    background-color: #FFFFFF;
+    background-color: #F2FCFD;
     margin: auto;
     /* Push footer down */
     flex: 1 0 auto;
@@ -168,7 +169,7 @@ tr {
 
 /* Styles Submit button */
 .submit-button {
-    background-color: #f89f84;
+    background-color: #f7bfae;
     margin-top: 15px;
     border-radius: 5px;
     border-color: darkred;
@@ -177,7 +178,7 @@ tr {
 
 /* Footer */
 footer {
-    background-color: #f89f84;
+    background-color: #f7bfae;
 }
 
 /* Adress */

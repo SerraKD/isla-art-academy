@@ -121,3 +121,8 @@ tr {
 footer {
     background-color: #f89f84;
 }
+
+/* Removes dots from social media icons*/
+#social-network li {
+    list-style-type: none;
+}

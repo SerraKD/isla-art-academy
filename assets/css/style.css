@@ -90,7 +90,7 @@ main {
 /* Styles Lesson schedule */
 #hours {
     display: flex;
-    background-color: #4C1000;
+    background-color: #FBF4CE;
     width: fit-content;
 
 }
@@ -99,13 +99,13 @@ main {
 td {
     text-align: left;
     padding: 4px 10px;
-    color: #FFFFFF;
+    color: #4C1000;
 }
 
 tr {
     text-align: center;
     padding: 4px 10px;
-    color: #FFFFFF;
+    color: #4C1000;
 }
 
 /* Styles Signup section */
@@ -119,5 +119,5 @@ tr {
 
 /* Footer */
 footer {
-    background-color: #E7C5F4;
+    background-color: #f89f84;
 }

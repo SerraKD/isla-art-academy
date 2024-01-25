@@ -21,17 +21,16 @@ body {
 #main-menu {
     display: flex;
     flex-direction: row;
-    justify-content: center;
-    align-items: center;
+    justify-content: space-between;
+    align-items: baseline;
 }
 
 /* Header */
 header {
     background-color: #FFFFFF;
-    width: 100%;
-    padding: 0 0.5rem;
-    display: flex;
+    padding: 0 0.2rem;
     z-index: 99;
+    order: 0;
 }
 
 /* Styles heading */
@@ -49,12 +48,14 @@ h1 {
 #menu {
     margin: auto;
     padding: 0 2px;
+    width: 100%;
 }
 
 /* Removes dots from list items*/
 #menu li {
     list-style-type: none;
-    letter-spacing: 4px;
+    letter-spacing: 5px;
+    font-size: 110%;
 }
 
 

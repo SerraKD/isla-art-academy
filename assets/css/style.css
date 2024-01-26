@@ -136,20 +136,28 @@ main {
     flex-grow: 1;
 }
 
+#class-schedule h2 {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    padding-bottom: 50px;
+}
+
 #hours {
     background-color: #FBF4CE;
     width: 100%;
     border-radius: 20%;
-    padding: 5px 5px 25px;
+    padding: 10;
+    margin-bottom: 80px;
 }
 
 .schedule {
-    width: 100%;
-    border: 5px #4C1000;
+    width: 95%;
+    border: 5px;
     border-radius: 20px;
 }
 
 .schedule caption {
+    display: none;
     width: 100%;
     padding-bottom: 15px;
     color: #4C1000;
@@ -355,6 +363,7 @@ footer {
         width: 100%;
         margin: 0 auto;
         max-width: 406.5px;
+        margin-bottom: 40px;
     }
 
     #signup-form {

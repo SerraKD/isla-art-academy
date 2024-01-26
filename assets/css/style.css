@@ -302,4 +302,21 @@ footer {
         height: 31px;
     }
 
+    #big-box {
+        width: 100%;
+        margin: 0 auto;
+        max-width: 1440px;
+    }
+
+    #hours {
+        width: 100%;
+        margin: 0 auto;
+        max-width: 406.5px;
+    }
+
+    #signup-form {
+        max-width: 424px;
+        width: 100%;
+        margin: 0 auto;
+    }
 }

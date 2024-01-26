@@ -28,6 +28,7 @@ body {
     align-items: baseline;
     padding-bottom: 3px;
     box-shadow: 0 4px 4px #550601;
+    box-sizing: content-box;
 }
 
 /* Header */

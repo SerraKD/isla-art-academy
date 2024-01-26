@@ -22,7 +22,7 @@ body {
     display: flex;
     width: 100%;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: space-evenly;
     z-index: 99;
     align-items: baseline;
     padding-bottom: 3px;
@@ -34,6 +34,7 @@ header {
     background-color: #FFFFFF;
     padding: 0 0.2rem;
     order: 0;
+    align-self: center;
 }
 
 /* Styles heading */
@@ -60,6 +61,8 @@ h1 {
     list-style-type: none;
     letter-spacing: 5px;
     font-size: 110%;
+    width: 125px;
+    height: 31px;
 }
 
 
@@ -212,4 +215,23 @@ footer {
 .fa-brands {
     color: black;
     font-size: x-large;
+}
+
+/* Media query: large mobile devices (560px and up) */
+@media screen and (min-width: 560px) {
+    #main-menu {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    #menu {
+        display: flex;
+        flex-wrap: wrap;
+        align-content: space-around;
+        justify-content: space-between;
+    }
+
 }

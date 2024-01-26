@@ -62,6 +62,8 @@ h1 {
     padding: 0 2px;
     width: 100%;
     background-color: #FFFFFF;
+    padding-top: 10px;
+    padding-right: 10px;
 }
 
 /* Removes dots from list items*/

@@ -227,6 +227,8 @@ footer {
         flex-wrap: wrap;
         align-items: center;
         justify-content: space-between;
+        position: relative;
+        z-index: 99;
     }
 
     #menu {
@@ -254,6 +256,8 @@ footer {
         flex-wrap: wrap;
         align-items: center;
         justify-content: space-between;
+        position: relative;
+        z-index: 99;
     }
 
     #menu {
@@ -279,6 +283,8 @@ footer {
         flex-wrap: wrap;
         align-items: flex-end;
         justify-content: space-between;
+        position: relative;
+        z-index: 99;
     }
 
     #menu {

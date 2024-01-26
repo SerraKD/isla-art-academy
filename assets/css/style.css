@@ -270,5 +270,30 @@ footer {
         width: 90px;
         height: 31px;
     }
+}
+/* Media query: Tablets and larger (768 px and up) */
+@media screen and (min-width: 768px) {
+    #main-menu {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        align-items: flex-end;
+        justify-content: space-between;
+    }
+
+    #menu {
+        display: flex;
+        flex-wrap: wrap;
+        align-content: space-around;
+        justify-content: space-between;
+    }
+
+    #menu li {
+        list-style-type: none;
+        letter-spacing: 2px;
+        font-size: 110%;
+        width: 90px;
+        height: 31px;
+    }
 
 }

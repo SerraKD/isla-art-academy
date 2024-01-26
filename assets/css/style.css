@@ -29,6 +29,10 @@ body {
     padding-bottom: 3px;
     box-shadow: 0 4px 4px #550601;
     box-sizing: content-box;
+    position: sticky;
+    top: 0;
+    left: 0;
+    background-color: #FFFFFF;
 }
 
 /* Header */
@@ -229,6 +233,10 @@ footer {
         justify-content: space-between;
         position: relative;
         z-index: 99;
+        position: sticky;
+        top: 0;
+        left: 0;
+        background-color: #FFFFFF;
     }
 
     #menu {
@@ -258,6 +266,10 @@ footer {
         justify-content: space-between;
         position: relative;
         z-index: 99;
+        position: sticky;
+        top: 0;
+        left: 0;
+        background-color: #FFFFFF;
     }
 
     #menu {

@@ -115,6 +115,11 @@ main {
     padding: 0 5px;
 }
 
+#about h2 {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+
 /* About Us - General Information */
 #general-info {
     margin: 14px auto 40px auto;

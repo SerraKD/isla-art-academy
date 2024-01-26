@@ -52,6 +52,8 @@ h1 {
     font-weight: 900;
     margin-block-start: unset;
     margin-block-end: 0.21em;
+    padding-top: 9px;
+    padding-left: 7px;
 }
 
 /* Nav bar styles*/

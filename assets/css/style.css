@@ -126,6 +126,7 @@ main {
 #general-info {
     margin: 20px auto 40px auto;
     padding: 0 30px;
+    text-align: justify;
 }
 
 /* Styles Lesson schedule section*/
@@ -361,6 +362,9 @@ footer {
         width: 100%;
         margin: 0 auto;
         max-width: 1440px;
+    }
+    #general-info {
+        text-align: center;
     }
 
     #hours {

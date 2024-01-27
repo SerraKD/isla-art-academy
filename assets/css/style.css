@@ -206,10 +206,11 @@ tr {
 
 /* Styles Submit button */
 .submit-button {
-    background-color: #f7bfae;
+    background-color: #D5FA0E;
     margin-top: 15px;
-    border-radius: 5px;
-    border-color: darkred;
+    border-radius: 30px;
+    border-color: #FA1001;
+    padding: 5px;
     font-size: 100%;
 }
 

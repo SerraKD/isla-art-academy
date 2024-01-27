@@ -147,8 +147,7 @@ main {
     background-color: #FBF4CE;
     width: 100%;
     border-radius: 20%;
-    padding: 10;
-    margin-bottom: 80px;
+    margin-bottom: 90px;
 }
 
 .schedule {
@@ -371,7 +370,7 @@ footer {
         width: 100%;
         margin: 0 auto;
         max-width: 406.5px;
-        margin-bottom: 40px;
+        margin-bottom: 90px;
     }
 
     #signup-form {

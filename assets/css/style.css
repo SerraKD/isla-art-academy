@@ -217,6 +217,7 @@ tr {
 /* Footer */
 footer {
     background-color: #f7bfae;
+    padding: 30px 10px;
 }
 
 /* Adress */
@@ -228,7 +229,7 @@ footer {
 /* Contact */
 #contact {
     text-align: center;
-    padding: 5px 0;
+    padding: 10px 0 15px;
 }
 
 /* Styles social network*/

@@ -202,6 +202,8 @@ tr {
     padding: 3px;
     width: 100%;
     margin: 2px 0 15px 0;
+    border-radius: 15px;
+    border-color: #FA1001;
 }
 
 /* Styles Submit button */

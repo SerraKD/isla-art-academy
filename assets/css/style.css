@@ -132,7 +132,7 @@ main {
 /* Styles Lesson schedule section*/
 #class-schedule {
     text-align: center;
-    padding: 5px 10px 5px;
+    padding: 60px 15px;
     background-color: #FA754B;
     flex-grow: 1;
 }
@@ -181,7 +181,7 @@ tr {
 /* Styles Signup section */
 #signup {
     text-align: center;
-    padding: 20px 40px 40px;
+    padding: 80px 20px;
     background-color: #FAC74B;
     flex-grow: 1;
 }
@@ -253,11 +253,11 @@ footer {
 /* Media query: to make hero text align with image only (376 and up) */
 @media screen and (min-width: 376px) {
     #hero h2 {
-    text-align: center;
-    font-size: xxx-large;
-    align-self: center;
-    position: relative;
-    padding-top: 130px;
+        text-align: center;
+        font-size: xxx-large;
+        align-self: center;
+        position: relative;
+        padding-top: 130px;
     }
 
 }
@@ -293,6 +293,10 @@ footer {
         box-sizing: content-box;
         height: unset;
     }
+
+    #class-schedule {
+        padding: 60px 40px;
+    }
 }
 
 /* Media query: large mobile devices (560px and up) */
@@ -326,6 +330,7 @@ footer {
         height: 31px;
     }
 }
+
 /* Media query: Tablets and larger (768 px and up) */
 @media screen and (min-width: 768px) {
     #main-menu {
@@ -362,6 +367,7 @@ footer {
         margin: 0 auto;
         max-width: 1440px;
     }
+
     #general-info {
         text-align: center;
     }

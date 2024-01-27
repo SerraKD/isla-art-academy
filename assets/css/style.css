@@ -362,6 +362,11 @@ footer {
         height: 31px;
     }
 
+/* Hover effect for nav links */    
+    #menu a:hover {
+        background-color: #D5FA0E;
+    }
+
     #big-box {
         width: 100%;
         margin: 0 auto;

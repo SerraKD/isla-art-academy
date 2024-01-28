@@ -270,7 +270,7 @@ footer {
 
 #err-img {
     max-width: 43vh;
-    margin: unset;
+    flex: 1;
 }
 
 /* Media query: to make hero text align with image only (376 and up) */
@@ -427,6 +427,7 @@ footer {
     }
 
     #err-img {
-        max-width: 768px;
+        width: 100%;
+        flex: 1;
     }
 }

@@ -269,7 +269,7 @@ footer {
 }
 
 #err-img {
-    max-width: 50vh;
+    max-width: 43vh;
     margin: unset;
 }
 
@@ -424,5 +424,9 @@ footer {
     #image-section {
         align-items: center;
         width: 100%;
+    }
+
+    #err-img {
+        max-width: 768px
     }
 }

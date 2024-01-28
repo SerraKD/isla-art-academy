@@ -18,6 +18,12 @@ body {
     margin: 0;
 }
 
+/* Styles 404.html */
+#image-section {
+    align-items: center;
+    width: 100%;
+}
+
 /* Main menu */
 #main-menu {
     display: flex;

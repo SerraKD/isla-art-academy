@@ -258,6 +258,7 @@ footer {
 #image-section {
     align-items: center;
     width: 100%;
+    background: url(../images/hero1.jpg) center center/cover;
     margin: 0;
 }
 
@@ -266,11 +267,6 @@ footer {
     font-family: 'Montserrat', sans-serif;
     margin: 0;
     padding: 15px 0;
-}
-
-#err-img {
-    max-width: 43vh;
-    flex: 1;
 }
 
 /* Media query: to make hero text align with image only (376 and up) */
@@ -426,8 +422,4 @@ footer {
         width: 100%;
     }
 
-    #err-img {
-        min-width: 768px;
-        flex: 1;
-    }
 }

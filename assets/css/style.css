@@ -270,7 +270,7 @@ footer {
 
 #err-img {
     max-width: 50vh;
-    margin: unset;
+    flex: 1;
 }
 
 /* Media query: to make hero text align with image only (376 and up) */
@@ -424,5 +424,10 @@ footer {
     #image-section {
         align-items: center;
         width: 100%;
+    }
+
+    #err-img {
+        width: 100%;
+        flex: 1;
     }
 }

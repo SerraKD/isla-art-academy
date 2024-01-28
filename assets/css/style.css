@@ -10,8 +10,11 @@
 
 /* Styles 404.html */
 #image-section {
+    display: flex;
+    flex-direction: column;
     align-items: center;
     width: 100%;
+    margin: 0;
 }
 
 /* Styles 404.html  heading */
@@ -352,6 +355,12 @@ footer {
 
 /* Media query: Tablets and larger (768 px and up) */
 @media screen and (min-width: 768px) {
+    /* Styles 404.html */
+    #image-section {
+        align-items: center;
+        width: 100%;
+    }
+
     #main-menu {
         display: flex;
         flex-direction: row;

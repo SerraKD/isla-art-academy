@@ -162,6 +162,7 @@ main {
     width: 100%;
     border-radius: 20%;
     margin-bottom: 90px;
+    margin-top: 20px;
 }
 
 .schedule {
@@ -400,6 +401,7 @@ footer {
         margin: 0 auto;
         max-width: 406.5px;
         margin-bottom: 90px;
+        margin-top: 20px;
     }
 
     #signup-form {

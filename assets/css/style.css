@@ -427,7 +427,7 @@ footer {
     }
 
     #err-img {
-        width: 100%;
+        min-width: 786px;
         flex: 1;
     }
 }

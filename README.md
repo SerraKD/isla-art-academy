@@ -82,11 +82,29 @@ This section contains details of the weekly lesson plan and the manner of using 
 
 - __Sign Up Section__
 
+This section contains a signup form for users to easily join the academy.
+
+![Sign Up section image](docs-readme/signup-img.png)
+
 - __Footer__
+
+The footer contains the contact information and social media links. 
+
+I decided to put this information together so that users can use the social platforms as an option to contact the academy if they choose.
+
+![Footer image](docs-readme/footer-img.png)
 
 > Contact
 
+Contact information includes the Academy's address, phone number, and email.
+
 > Socials
+
+Social media links are Instagram, Facebook, and YouTube.
+
+When clicked on, it takes the user to the main page of the social media platform. They have a hover effect on large screens for an interactive layout.
+
+![Social media links hover image](docs-readme/social-hover.png)
 
 ### Features Left to Implement
 

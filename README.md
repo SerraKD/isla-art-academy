@@ -48,7 +48,7 @@ I decided to pick colors that are coherent to the hero image. I chose bright and
 
 - __Main Menu__
 
-- The Main menu is fixed on top of the page and has the Academy name as a header with a navigation bar.
+The Main menu is fixed on top of the page and has the Academy name as a header with a navigation bar.
 
 - Navigation bar items have a hover effect on large screens.
 
@@ -80,7 +80,7 @@ This section contains straightforward information about the Academy's principles
 
 - __Lesson Schedule Section__
 
-- The initial design had the Lesson Schedule as part of the About Us section. Later I decided to split it into two different sections for a better layout. 
+The initial design had the Lesson Schedule as part of the About Us section. Later I decided to split it into two different sections for a better layout. 
 
 - This section contains details of the weekly lesson plan and the manner of using the classrooms.
 
@@ -88,7 +88,8 @@ This section contains straightforward information about the Academy's principles
 
 - __Sign Up Section__
 
-- This section contains a signup form for users to easily join the academy. 
+- This section contains a signup form for users to easily join the academy.
+
 - The user has to fill out the form completely to be able to submit it.
 
 ![Sign Up section image](docs-readme/signup-img.png)
@@ -144,6 +145,8 @@ This section contains straightforward information about the Academy's principles
 - [Am I responsive?](https://ui.dev/amiresponsive) was used for responsive mockup.
 
 - For color contrast checking i used [Eightshapes](https://contrast-grid.eightshapes.com/).
+
+- [Dev Tools](https://developer.chrome.com/docs/devtools/) was used throughout the project for testing, troubleshooting, and styling.
 
 - Instructions for Markdown styntax taken from [Tapas Adhikary](https://github.com/atapas/markdown-cheatsheet) & [Markdown Guide](https://www.markdownguide.org/extended-syntax/).
 

@@ -46,6 +46,22 @@ I decided to pick colors that are coherent to the hero image. I chose bright and
 
 ### Existing Features
 
+- __Navigation Bar__
+
+- __Hero Section__
+
+- __About Us Section__
+
+- __Lesson Schedule Section__
+
+- __Sign Up Section__
+
+- __Footer__
+
+> Contact
+
+> Socials
+
 ### Features Left to Implement
 
 ## Manual Testing

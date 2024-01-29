@@ -26,6 +26,17 @@ Visit the deployed [website](https://serrakd.github.io/isla-art-academy/).
 - I expect easy access to social media links and contact information.
 - I should be able to sign up for services effortlessly.
 
+## Wireframes
+
+At the planning stage I used Balsamiq wireframes to create the basic layout of the website.
+
+| Section | Mobile View | Desktop View |
+| ---- | :----: | :----: |
+| Hero | ![Mobile hero wireframe image](docs-readme/hero-mobile.png) | ![Desktop hero wireframe image](docs-readme/hero-desktop.png) |
+| About | ![Mobile about wireframe image](docs-readme/about-mobile.png) | ![Desktop about wireframe image](docs-readme/about-desktop.png) |
+| Sign Up & Contact | ![Mobile signup and contact wireframe image](docs-readme/signup-mobile.png) | ![Desktop signup and contact wireframe image](docs-readme/signup-desktop.png)|
+
+
 ## Features
 
 ### Existing Features

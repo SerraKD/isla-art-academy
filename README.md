@@ -36,6 +36,11 @@ At the planning stage I used Balsamiq wireframes to create the basic layout of t
 | About | ![Mobile about wireframe image](docs-readme/about-mobile.png) | ![Desktop about wireframe image](docs-readme/about-desktop.png) |
 | Sign Up & Contact | ![Mobile signup and contact wireframe image](docs-readme/signup-mobile.png) | ![Desktop signup and contact wireframe image](docs-readme/signup-desktop.png)|
 
+## Color Scheme
+
+I decided to pick colors that are coherent to the hero image. I chose bright and intensive colors to maintain users' interest and create a minimalistic but visually pleasing website. The Contrast Grid is used to ensure the website is accessible.
+
+![Contrast Grid colors](docs-readme/colorscheme.png)
 
 ## Features
 

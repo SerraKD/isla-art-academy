@@ -124,7 +124,7 @@ main {
 /* About Us - General Information */
 #general-info {
     margin: 20px auto 40px auto;
-    padding: 0 30px;
+    padding: 0 30px 60px;
     text-align: justify;
 }
 
@@ -181,7 +181,7 @@ tr {
 /* Styles Signup section */
 #signup {
     text-align: center;
-    padding: 80px 20px;
+    padding: 250px 20px;
     background-color: #FAC74B;
     flex-grow: 1;
 }

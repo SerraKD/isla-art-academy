@@ -68,6 +68,10 @@ The main goal of this section is to get the user's attention simply with the int
 
 - __About Us Section__
 
+This section contains straightforward information about the Academy's principles, target audience, and education methods. The main goal is to give significant information without losing the user's interest.
+
+![About Us section image](docs-readme/aboutus-img.png)
+
 - __Lesson Schedule Section__
 
 - __Sign Up Section__

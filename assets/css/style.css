@@ -118,7 +118,8 @@ main {
 #about h2 {
     font-family: 'Montserrat', sans-serif;
     text-align: center;
-    padding-top: 60px;
+    padding-top: 110px;
+    padding-bottom: 20px;
 }
 
 /* About Us - General Information */

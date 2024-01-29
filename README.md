@@ -74,6 +74,12 @@ This section contains straightforward information about the Academy's principles
 
 - __Lesson Schedule Section__
 
+The initial design had the Lesson Schedule as part of the About Us section. Later I decided to split it into two different sections for a better layout. 
+
+This section contains details of the weekly lesson plan and the manner of using the classrooms.
+
+![Lesson Schedule section image](docs-readme/schedule-img.png)
+
 - __Sign Up Section__
 
 - __Footer__

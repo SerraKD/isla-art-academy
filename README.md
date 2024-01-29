@@ -112,6 +112,8 @@ When clicked on, it takes the user to the main page of the social media platform
 
 ### Features Left to Implement
 
+In the future, I would like to add a gallery page to the website that connects Isla Art Academy with Isla Art Gallery. There, users can view and purchase the paintings created by students of the academy and local artists.
+
 ## Manual Testing
 
 ### Validator Testing

@@ -60,6 +60,12 @@ Because the Academy name is long, I styled the main menu differently for small, 
 
 - __Hero Section__
 
+At first, the hero image I picked was one color simple watercolor paint, but then I decided it was not striking enough and changed to the current image. I tried to set the heading on the image to specifically not to come on top of white strikes in the painting.
+
+The main goal of this section is to get the user's attention simply with the intriguing message and image.
+
+![Hero section image](docs-readme/herosection-img.png)
+
 - __About Us Section__
 
 - __Lesson Schedule Section__

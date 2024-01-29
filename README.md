@@ -62,13 +62,17 @@ Because the Academy name is long, I styled the main menu differently for small, 
 
 At first, the hero image I picked was one color simple watercolor paint, but then I decided it was not striking enough and changed to the current image. I tried to set the heading on the image to specifically not to come on top of white strikes in the painting.
 
-The main goal of this section is to get the user's attention simply with the intriguing message and image.
+This section contains a heading and a background image of a colorful painting.
+
+The main goal of this section is to get the user's attention simply with the intriguing heading and image.
 
 ![Hero section image](docs-readme/herosection-img.png)
 
 - __About Us Section__
 
-This section contains straightforward information about the Academy's principles, target audience, and education methods. The main goal is to give significant information without losing the user's interest.
+This section contains straightforward information about the Academy's principles, target audience, and education methods. The main goal is to give significant information without losing the user's interest. 
+
+It encourages users to join the academy while giving them information on how to get in touch.
 
 ![About Us section image](docs-readme/aboutus-img.png)
 
@@ -82,7 +86,7 @@ This section contains details of the weekly lesson plan and the manner of using 
 
 - __Sign Up Section__
 
-This section contains a signup form for users to easily join the academy.
+This section contains a signup form for users to easily join the academy. The user has to fill out the form completely to be able to submit it.
 
 ![Sign Up section image](docs-readme/signup-img.png)
 
@@ -102,7 +106,7 @@ Contact information includes the Academy's address, phone number, and email.
 
 Social media links are Instagram, Facebook, and YouTube.
 
-When clicked on, it takes the user to the main page of the social media platform. They have a hover effect on large screens for an interactive layout.
+When clicked on, it takes the user to the main page of the social media platform in a new tab. They have a hover effect on large screens for an interactive layout.
 
 ![Social media links hover image](docs-readme/social-hover.png)
 

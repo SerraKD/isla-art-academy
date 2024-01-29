@@ -46,7 +46,17 @@ I decided to pick colors that are coherent to the hero image. I chose bright and
 
 ### Existing Features
 
-- __Navigation Bar__
+- __Main Menu__
+
+The Main menu is fixed on top of the page and has the Academy name as a header with a navigation bar.
+
+Because the Academy name is long, I styled the main menu differently for small, medium, and large screens for compatibility.
+
+| Screen Size | Image |
+| :----: | :----: |
+| Small Screen | ![Menu image small screens](docs-readme/heading-small.png) |
+| Medium Screen | ![Menu image medium screens](docs-readme/heading-medium.png) |
+| Large Screen | ![Menu image medium screens](docs-readme/heading-large.png) |
 
 - __Hero Section__
 

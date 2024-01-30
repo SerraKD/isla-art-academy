@@ -122,6 +122,15 @@ The initial design had the Lesson Schedule as part of the About Us section. Late
 
 ### Validator Testing
 
+| Page | [V3C HTML](https://validator.w3.org/) | Result |
+| :----: | :----: | :----: |
+| index.html | ![Index validation result image](docs-readme/index-validator.png) |  No error found |
+| 404.html | ![404 page validation result image](docs-readme/404-validator.png) |  No error found |
+
+| Page | [V3C CSS](https://jigsaw.w3.org/css-validator/) | Result |
+| :----: | :----: |  :----: |
+| style.css | ![Css validation result image](docs-readme/css-validator.png) | No error found |
+
 ### Unfixed Bugs
 
 ## Deployment

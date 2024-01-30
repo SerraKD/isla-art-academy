@@ -118,7 +118,26 @@ The initial design had the Lesson Schedule as part of the About Us section. Late
 
 - In the future, I would like to add a gallery page to the website that connects Isla Art Academy with Isla Art Gallery. There, users can view and purchase the paintings created by students of the academy and local artists.
 
-## Manual Testing
+## Testing
+
+Throughout the development process, I tested the project regularly with  [Chrome Dev tools](https://developer.chrome.com/docs/devtools/).
+
+- For each element and section, I experimented  with dev tools for a better layout and  responsiveness.
+
+- Following the mobile-first rule, I designed elements and layout for the smallest screen and worked up to the big screen. I tested every change in this manner.
+
+- I tried to record all changes made by this testing process with meaningful and detailed commit messages. Some examples are shown below.
+
+| Commit | Commit Message | Fix reason |
+| ---- | :----: | ---- |
+| [3c00397](https://github.com/SerraKD/isla-art-academy/commit/3c00397d3cbeef84b0b07c700ce1df232715e571) | Change iimported font family to Lato and Montserrat | Poor user feedback for the first picked font family Lora & Libre Baskerville |
+| [8ded3ec](https://github.com/SerraKD/isla-art-academy/commit/8ded3ecba60660e1b8c9a7361be3aadc5554c3b6) | Make contact link work by changing footer id in index.html | During development, i realised that contact link on nav-bar is not working |
+| [175332f](https://github.com/SerraKD/isla-art-academy/commit/175332f312687f25a906376ba94775eff8fe4ee6) | Change logo to h1 heading and remove from list items | I wanted heading and nav-bar items to move separately for different screen sizes for better responsiveness. |
+| [58d7b87](https://github.com/SerraKD/isla-art-academy/commit/58d7b8710b32287a6b4519dfe304cdf2de95b2a5)| Add padding to main heading to give breathing space | The main heading was too close to the top left corner of the page, creating a poor visual effect. |
+| [2e7266b](https://github.com/SerraKD/isla-art-academy/commit/2e7266b2e90b16d3b9faee6e6c535e0680a49eed)| Add padding to hero heading to make it clear on smallest mobile device | Some letters of the white text for the heading were coming on top white stikes in the hero image.  I added extra padding and media query for medium-size devices to prevent this issue. | 
+
+
+### Manual Testing
 
 ### Validator Testing
 

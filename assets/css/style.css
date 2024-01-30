@@ -268,8 +268,9 @@ footer {
 /* Styles 404.html  heading */
 #image-section>h1 {
     font-family: 'Montserrat', sans-serif;
-    margin: 0;
-    padding: 15px 0;
+    margin: 90px 100%;
+    font-size: xxx-large;
+    color: #FFFFFF;
 }
 
 /* Media query: to make hero text align with image only (376 and up) */

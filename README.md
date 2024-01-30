@@ -44,6 +44,11 @@ I decided to pick colors that are coherent to the hero image. I chose bright and
 
 ## Features
 
+The website consists of one page with five sections. My main goal was to 
+create a website that is modest and useful. 
+
+The contents are straight to the purpose while having pleasing visuals. 
+
 ### Existing Features
 
 - __Main Menu__
@@ -72,7 +77,9 @@ At first, the hero image I picked was one color simple watercolor paint, but the
 
 - __About Us Section__
 
-This section contains straightforward information about the Academy's principles, target audience, and education methods. The main goal is to give significant information without losing the user's interest. 
+This section contains straightforward information about the Academy's principles, target audience, and education methods.
+
+The main goal is to give significant information without losing the user's interest. 
 
 - It encourages users to join the academy while giving them information on how to get in touch.
 
@@ -88,7 +95,7 @@ The initial design had the Lesson Schedule as part of the About Us section. Late
 
 - __Sign Up Section__
 
-- This section contains a signup form for users to easily join the academy.
+This section contains a signup form for users to easily join the academy.
 
 - The user has to fill out the form completely to be able to submit it.
 
@@ -96,9 +103,11 @@ The initial design had the Lesson Schedule as part of the About Us section. Late
 
 - __Footer__
 
-- The footer contains the contact information and social media links. 
+The footer contains the contact information and social media links. 
 
-- I decided to put this information together so that users can use the social platforms as an option to contact the academy if they choose.
+- Can be reached easily by a user from the main menu _Contact_ link.
+
+I decided to put this information together so that users can use the social platforms as an option to contact the academy if they choose.
 
 ![Footer image](docs-readme/footer-img.png)
 
@@ -225,4 +234,8 @@ Visit the deployed website [here](https://serrakd.github.io/isla-art-academy/).
 
 - The photo used as background image taken from [Pexels](https://www.pexels.com/). Photo by [Steve Johnson](https://www.pexels.com/photo/multi-coloured-abstract-painting-1372990/)
 
-### Other General Project Advice
+## Acknowledgements
+
+- My tutor, Rory Patrick Sheridan, provided great support, beneficial tips, and invaluable guidance. 
+
+- My husband, his valuable feedback and requests as a user.

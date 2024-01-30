@@ -133,6 +133,17 @@ The initial design had the Lesson Schedule as part of the About Us section. Late
 | :----: | :----: |  :----: |
 | style.css | ![Css validation result image](docs-readme/css-validator.png) | No error found |
 
+### Accesibility Testing
+
+- [Page Speed](https://pagespeed.web.dev/) and [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview) was used for accesibility testing.
+
+- Pagespeed mobile has a lower performance score due to image size and format. I didn't add any changes because the quality and size of the image are crucial for the website structure.
+
+| Device | [Page Speed](https://pagespeed.web.dev/) | [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview) |
+| :----: | :----: | :----: |
+| Mobile | ![ Page speed mobile result image](docs-readme/pagespeed-mobile.png) | ![ Lighthouse mobile result image](docs-readme/lighthouse-mobile.png) |
+| Desktop | ![ Page speed desktop result image](docs-readme/pagespeed-desktop.png) | ![ Lighthouse mobile result image](docs-readme/lighthouse-desktop.png) |
+
 ### Unfixed Bugs
 
 ## Deployment

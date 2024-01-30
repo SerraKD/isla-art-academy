@@ -122,6 +122,8 @@ The initial design had the Lesson Schedule as part of the About Us section. Late
 
 ### Validator Testing
 
+- [V3C HTML](https://validator.w3.org/) and [V3C CSS](https://jigsaw.w3.org/css-validator/) was used for validator testing.
+
 | Page | [V3C HTML](https://validator.w3.org/) | Result |
 | :----: | :----: | :----: |
 | index.html | ![Index validation result image](docs-readme/index-validator.png) |  No error found |

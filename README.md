@@ -179,6 +179,18 @@ I used 4 different browsers for manual testing and I didn't find issues.
 
 ## Deployment
 
+I used [Gitpod](https://gitpod.io/) to develop this website.
+
+I deployed the website on [GitHub](https://github.com/) with following steps;
+
+1. Log in to Github and go to projects' repository.
+2. Find the Settings on the top of the repository and click.
+3. On the left side of the screen, find Pages and select.
+4. Under the Branch section, click on the dropdown that says none, and pick "Main" and click on save button.
+4. The page is now deployed.
+
+Visit the deployed website [here](https://serrakd.github.io/isla-art-academy/).
+
 ## Credits
 
 - Hero image inspiration was taken from the Love Running project.

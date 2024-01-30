@@ -130,14 +130,26 @@ Throughout the development process, I tested the project regularly with  [Chrome
 
 | Commit | Commit Message | Fix reason |
 | ---- | :----: | ---- |
-| [3c00397](https://github.com/SerraKD/isla-art-academy/commit/3c00397d3cbeef84b0b07c700ce1df232715e571) | Change iimported font family to Lato and Montserrat | Poor user feedback for the first picked font family Lora & Libre Baskerville |
-| [8ded3ec](https://github.com/SerraKD/isla-art-academy/commit/8ded3ecba60660e1b8c9a7361be3aadc5554c3b6) | Make contact link work by changing footer id in index.html | During development, i realised that contact link on nav-bar is not working |
+| [3c00397](https://github.com/SerraKD/isla-art-academy/commit/3c00397d3cbeef84b0b07c700ce1df232715e571) | Change iimported font family to Lato and Montserrat | Poor user feedback for the first picked font family Lora & Libre Baskerville. |
+| [8ded3ec](https://github.com/SerraKD/isla-art-academy/commit/8ded3ecba60660e1b8c9a7361be3aadc5554c3b6) | Make contact link work by changing footer id in index.html | During development, i realised that contact link on nav-bar is not working. |
 | [175332f](https://github.com/SerraKD/isla-art-academy/commit/175332f312687f25a906376ba94775eff8fe4ee6) | Change logo to h1 heading and remove from list items | I wanted heading and nav-bar items to move separately for different screen sizes for better responsiveness. |
 | [58d7b87](https://github.com/SerraKD/isla-art-academy/commit/58d7b8710b32287a6b4519dfe304cdf2de95b2a5)| Add padding to main heading to give breathing space | The main heading was too close to the top left corner of the page, creating a poor visual effect. |
 | [2e7266b](https://github.com/SerraKD/isla-art-academy/commit/2e7266b2e90b16d3b9faee6e6c535e0680a49eed)| Add padding to hero heading to make it clear on smallest mobile device | Some letters of the white text for the heading were coming on top white stikes in the hero image.  I added extra padding and media query for medium-size devices to prevent this issue. | 
 
-
 ### Manual Testing
+
+I tested manually all elements and pages on different size devices and browsers, and found no errors besides below ones.
+
+- On dev tools, for mobile screens submit button text is black but when I go to the deployed page from my iPhone I find out that the text color for the submit button is white. I added a  black text color and font family Lato to the submit button styles to make sure this issue is fixed.
+
+- Excessive padding for the signup section created a visually poor experience. I reduced the top and bottom padding for a better look on all devices and browsers.
+
+I used 4 different browsers for manual testing and I didn't find issues.
+
+- Chrome
+- Safari
+- Edge
+- Mozilla Firefox
 
 ### Validator Testing
 

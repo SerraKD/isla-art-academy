@@ -72,7 +72,7 @@ I decided to pick colors that are coherent to the hero image. I chose bright and
 ## Features
 
 The website consists of one page with five sections. My main goal was to 
-create a website that is modest and useful. 
+create a website that is modest and useful. Every element and section was developed with mobile-first rule.
 
 The contents are straight to the purpose while having pleasing visuals. 
 
@@ -83,6 +83,8 @@ The contents are straight to the purpose while having pleasing visuals.
 ### __Main Menu__
 
 The Main menu is fixed on top of the page and has the Academy name as a header with a navigation bar.
+
+- Users can easily access the main beneficial parts of the page without scrolling or searching.
 
 - Navigation bar items have a hover effect on large screens.
 
@@ -99,6 +101,8 @@ The Main menu is fixed on top of the page and has the Academy name as a header w
 At first, the hero image I picked was one color simple watercolor paint, but then I decided it was not striking enough and changed to the current image. I tried to set the heading on the image to specifically not to come on top of white strikes in the painting.
 
 - This section contains a heading and a background image of a colorful painting.
+
+- The heading on the image makes it clear that this page is about painting lessons.
 
 - The main goal of this section is to get the user's attention simply with the intriguing heading and image.
 
@@ -138,6 +142,8 @@ The initial design had the Lesson Schedule as part of the About Us section. Late
 ### __Sign Up Section__
 
 This section contains a signup form for users to easily join the academy.
+
+- To make joining the academy tempting and easy, I decided to make a simple but eye-catching signup form. 
 
 - The user has to fill out the form completely to be able to submit it.
 

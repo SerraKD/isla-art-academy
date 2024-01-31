@@ -224,6 +224,8 @@ Visit the deployed website [here](https://serrakd.github.io/isla-art-academy/).
 
 - Instructions for Markdown styntax taken from [Tapas Adhikary](https://github.com/atapas/markdown-cheatsheet) & [Markdown Guide](https://www.markdownguide.org/extended-syntax/).
 
+- To check the grammar of all text content, I used [Grammarly](https://app.grammarly.com/).
+
 - README.md structure inspration by Ilyas Olgun's project [Paws Play](https://github.com/ilyasolgun11/paws-play-pp1).
 
 ### Content

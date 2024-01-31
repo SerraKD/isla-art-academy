@@ -65,16 +65,23 @@ At the planning stage I used Balsamiq wireframes to create the basic layout of t
 
 ## Color Scheme
 
-I decided to pick colors that are coherent to the hero image. I chose bright and intensive colors to maintain users' interest and create a minimalistic but visually pleasing website. The Contrast Grid is used to ensure the website is accessible.
+- I decided to pick colors that are coherent to the hero image. 
+
+- I chose bright and intensive colors to maintain users' interest and create a minimalistic but visually pleasing website.
+
+The __Contrast Grid__ is used to ensure the website is accessible.
 
 ![Contrast Grid colors](docs-readme/colorscheme.png)
 
 ## Features
 
-The website consists of one page with five sections. My main goal was to 
-create a website that is modest and useful. Every element and section was developed with mobile-first rule.
+The website consists of one page with five sections.
 
 The contents are straight to the purpose while having pleasing visuals. 
+
+- My main goal was to create a website that is modest and useful. 
+
+- Every element and section was developed with mobile-first rule.
 
 ### Existing Features
 
@@ -95,6 +102,10 @@ The Main menu is fixed on top of the page and has the Academy name as a header w
 | Small Screen | ![Menu image small screens](docs-readme/heading-small.png) |
 | Medium Screen | ![Menu image medium screens](docs-readme/heading-medium.png) |
 | Large Screen | ![Menu image large screens](docs-readme/heading-large.png) |
+
+- Nav-bar items has hover effect for large screens.
+
+![Laptop nav-bar hover image](docs-readme/menu-hover.png) 
 
 ### __Hero Section__
 

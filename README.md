@@ -234,15 +234,19 @@ I tested manually all elements and pages on different size devices and browsers,
 
 ### Fixed Bugs
 
-- While working on dev tools, I realised that the Contact menu link is broken. Footer id was not matching the contact id, a quick change in the index.html solved the problem.
+1. While working on dev tools, I realised that the Contact menu link is broken. Footer id was not matching the contact id, a quick change in the index.html solved the problem.
 
-- On dev tools, for mobile screens submit button text is black but when I go to the deployed page from my iPhone I find out that the text color for the submit button is white. I added a  black text color and font family Lato to the submit button styles to make sure this issue is fixed.
+2. On dev tools, for mobile screens submit button text is black but when I go to the deployed page from my iPhone I find out that the text color for the submit button is white. I added a  black text color and font family Lato to the submit button styles to make sure this issue is fixed.
 
-- Excessive padding for the signup section created a visually poor experience. I reduced the top and bottom padding for a better look on all devices and browsers.
+3. Excessive padding for the signup section created a visually poor experience. I reduced the top and bottom padding for a better look on all devices and browsers.
 
-- For the 404.html page, first, I added the hero image with an image tag to HTML. While testing I saw that for different size screens, it is not compatible and I changed it as background in CSS for better responsiveness.
+4. For the 404.html page, first, I added the hero image with an image tag to HTML. While testing I saw that for different size screens, it is not compatible and I changed it as background in CSS for better responsiveness.
 
-- In index.html, the first div was before the header element. For better Semantics, I switched their positions. This change caused the navbar items to move down, so I removed the main menu baseline alignment style from CSS.
+5. In index.html, the first div was before the header element. For better Semantics, I switched their positions. This change caused the navbar items to move down, so I removed the main menu baseline alignment style from CSS.
+
+6. At first, I styled the main menu for the smallest mobile screen and then the laptops and larger. While testing I realised it doesn't look good for larger mobile devices. To change this I added a media query for medium mobile devices to make sure the Main menu moves and fits to all screens properly.
+
+7. While I was creating the about us section, I realised that the href value of sign up did not match the id of the signup section, causing a broken navigation link. Changing the value same as the section ID resolved the problem.
 
 Some examples of commits for fixed bugs shown below;
 

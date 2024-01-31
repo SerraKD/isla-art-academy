@@ -24,7 +24,7 @@ Visit the deployed [website](https://serrakd.github.io/isla-art-academy/).
    1. [Manual Testing](#manual-testing)
    2. [Validator Testing](#validator-testing)
    3. [Accesibility Testing](#accesibility-testing)
-   4. [Unfixed Bugs](#unfixed-bugs)
+   4. [Fixed Bugs](#fixed-bugs)
 6. [Deployment](#deployment)
 7. [Credits](#credits)
    1. [Content](#content)
@@ -191,30 +191,22 @@ Throughout the development process, I tested the project regularly with  [Chrome
 
 - Following the mobile-first rule, I designed elements and layout for the smallest screen and worked up to the big screen. I tested every change in this manner.
 
-- I tried to record all changes made by this testing process with meaningful and detailed commit messages. Some examples are shown below.
+- I tried to record all changes made by this testing process with meaningful and detailed commit messages. 
 
-| Commit | Commit Message | Fix reason |
-| ---- | :----: | ---- |
-| [3c00397](https://github.com/SerraKD/isla-art-academy/commit/3c00397d3cbeef84b0b07c700ce1df232715e571) | Change iimported font family to Lato and Montserrat | Poor user feedback for the first picked font family Lora & Libre Baskerville. |
-| [8ded3ec](https://github.com/SerraKD/isla-art-academy/commit/8ded3ecba60660e1b8c9a7361be3aadc5554c3b6) | Make contact link work by changing footer id in index.html | During development, i realised that contact link on nav-bar is not working. |
-| [175332f](https://github.com/SerraKD/isla-art-academy/commit/175332f312687f25a906376ba94775eff8fe4ee6) | Change logo to h1 heading and remove from list items | I wanted heading and nav-bar items to move separately for different screen sizes for better responsiveness. |
-| [58d7b87](https://github.com/SerraKD/isla-art-academy/commit/58d7b8710b32287a6b4519dfe304cdf2de95b2a5)| Add padding to main heading to give breathing space | The main heading was too close to the top left corner of the page, creating a poor visual effect. |
-| [2e7266b](https://github.com/SerraKD/isla-art-academy/commit/2e7266b2e90b16d3b9faee6e6c535e0680a49eed)| Add padding to hero heading to make it clear on smallest mobile device | Some letters of the white text for the heading were coming on top white stikes in the hero image.  I added extra padding and media query for medium-size devices to prevent this issue. | 
 
 ### __Manual Testing__
 
-I tested manually all elements and pages on different size devices and browsers, and found no errors besides below ones.
+I tested manually all elements and pages on different size devices and browsers, and found no errors.
 
-- On dev tools, for mobile screens submit button text is black but when I go to the deployed page from my iPhone I find out that the text color for the submit button is white. I added a  black text color and font family Lato to the submit button styles to make sure this issue is fixed.
+- I used 4 different browsers for manual testing, and found no errors.
 
-- Excessive padding for the signup section created a visually poor experience. I reduced the top and bottom padding for a better look on all devices and browsers.
+| Browser | Mobile| Desktop | Result |
+| :----: | :----: | :----: | :----: |
+| Chrome| &check; | &check; | No issues |
+| Safari | &check; | &check; | No issues |
+| Edge | &check; | &check;| No issues |
+| Mozilla Firefox | &check; | &check; | No issues |
 
-I used 4 different browsers for manual testing and I didn't find issues.
-
-- Chrome
-- Safari
-- Edge
-- Mozilla Firefox
 
 ### __Validator Testing__
 
@@ -240,7 +232,27 @@ I used 4 different browsers for manual testing and I didn't find issues.
 | Mobile | ![ Page speed mobile result image](docs-readme/pagespeed-mobile.png) | ![ Lighthouse mobile result image](docs-readme/lighthouse-mobile.png) |
 | Desktop | ![ Page speed desktop result image](docs-readme/pagespeed-desktop.png) | ![ Lighthouse mobile result image](docs-readme/lighthouse-desktop.png) |
 
-### Unfixed Bugs
+### Fixed Bugs
+
+- While working on dev tools, I realised that the Contact menu link is broken. Footer id was not matching the contact id, a quick change in the index.html solved the problem.
+
+- On dev tools, for mobile screens submit button text is black but when I go to the deployed page from my iPhone I find out that the text color for the submit button is white. I added a  black text color and font family Lato to the submit button styles to make sure this issue is fixed.
+
+- Excessive padding for the signup section created a visually poor experience. I reduced the top and bottom padding for a better look on all devices and browsers.
+
+- For the 404.html page, first, I added the hero image with an image tag to HTML. While testing I saw that for different size screens, it is not compatible and I changed it as background in CSS for better responsiveness.
+
+- In index.html, the first div was before the header element. For better Semantics, I switched their positions. This change caused the navbar items to move down, so I removed the main menu baseline alignment style from CSS.
+
+Some examples of commits for fixed bugs shown below;
+
+| Commit | Commit Message | Fix reason |
+| ---- | :----: | ---- |
+| [3c00397](https://github.com/SerraKD/isla-art-academy/commit/3c00397d3cbeef84b0b07c700ce1df232715e571) | Change iimported font family to Lato and Montserrat | Poor user feedback for the first picked font family Lora & Libre Baskerville. |
+| [8ded3ec](https://github.com/SerraKD/isla-art-academy/commit/8ded3ecba60660e1b8c9a7361be3aadc5554c3b6) | Make contact link work by changing footer id in index.html | During development, i realised that contact link on nav-bar is not working. |
+| [175332f](https://github.com/SerraKD/isla-art-academy/commit/175332f312687f25a906376ba94775eff8fe4ee6) | Change logo to h1 heading and remove from list items | I wanted heading and nav-bar items to move separately for different screen sizes for better responsiveness. |
+| [58d7b87](https://github.com/SerraKD/isla-art-academy/commit/58d7b8710b32287a6b4519dfe304cdf2de95b2a5)| Add padding to main heading to give breathing space | The main heading was too close to the top left corner of the page, creating a poor visual effect. |
+| [2e7266b](https://github.com/SerraKD/isla-art-academy/commit/2e7266b2e90b16d3b9faee6e6c535e0680a49eed)| Add padding to hero heading to make it clear on smallest mobile device | Some letters of the white text for the heading were coming on top white stikes in the hero image.  I added extra padding and media query for medium-size devices to prevent this issue. | 
 
 ## Deployment
 
@@ -278,7 +290,7 @@ Visit the deployed website [here](https://serrakd.github.io/isla-art-academy/).
 
 - [Dev Tools](https://developer.chrome.com/docs/devtools/) was used throughout the project for testing, troubleshooting, and styling.
 
-- Instructions for Markdown styntax taken from [Tapas Adhikary](https://github.com/atapas/markdown-cheatsheet) & [Markdown Guide](https://www.markdownguide.org/extended-syntax/).
+- Instructions for Markdown styntax taken from [Tapas Adhikary](https://github.com/atapas/markdown-cheatsheet), [Markdown Guide](https://www.markdownguide.org/extended-syntax/) and [Stack Overflow](https://stackoverflow.com/questions/47344571/how-to-draw-checkbox-or-tick-mark-in-github-markdown-table).
 
 - To check the grammar of all text content, I used [Grammarly](https://app.grammarly.com/).
 

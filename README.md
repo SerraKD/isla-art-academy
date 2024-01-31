@@ -1,6 +1,6 @@
 # Isla Art Academy
 
-The Isla Art Academy website is created to showcase academy's the identity and offer painting classes to interested individuals. The website is beneficial for users who want to learn more about the school, view the class schedule, and send an application form to join studies. The academy offers lessons to everyone, from beginners to advanced students of all ages.
+The Isla Art Academy website is created to showcase the academy's identity and offer painting classes to interested individuals. The website is beneficial for users who want to learn more about the school, view the class schedule, and send an application form to join studies. The academy offers lessons to everyone, from beginners to advanced students of all ages.
 
 Visit the deployed [website](https://serrakd.github.io/isla-art-academy/).
 

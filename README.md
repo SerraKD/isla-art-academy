@@ -6,6 +6,33 @@ Visit the deployed [website](https://serrakd.github.io/isla-art-academy/).
 
 ![Responsive design](docs-readme/responsive-img.png)
 
+## Table Of Contents
+
+1. [User Experience (UX)](#user-experience-ux)
+2. [Wireframes](#wireframes)
+3. [Color Scheme](#color-scheme)
+4. [Features](#features)
+   1. [Existing Features](#existing-features)
+      - [Main Menu](#main-menu)
+      - [Hero Section](#hero-section)
+      - [About Us Section](#about-us-section)
+      - [Lesson Schedule Section](#lesson-schedule-section)
+      - [Sign Up Section](#sign-up-section)
+      - [Footer](#footer)
+   2. [Features Left to Implement](#features-left-to-implement)
+5. [Testing](#testing)
+   1. [Manual Testing](#manual-testing)
+   2. [Validator Testing](#validator-testing)
+   3. [Accesibility Testing](#accesibility-testing)
+   4. [Unfixed Bugs](#unfixed-bugs)
+6. [Deployment](#deployment)
+7. [Credits](#credits)
+   1. [Content](#content)
+   2. [Media](#media)
+8. [Acknowledgements](#acknowledgements)
+
+---
+
 ## User Experience (UX)
 
 ### Site Goals
@@ -51,7 +78,9 @@ The contents are straight to the purpose while having pleasing visuals.
 
 ### Existing Features
 
-- __Main Menu__
+---
+
+### __Main Menu__
 
 The Main menu is fixed on top of the page and has the Academy name as a header with a navigation bar.
 
@@ -65,7 +94,7 @@ The Main menu is fixed on top of the page and has the Academy name as a header w
 | Medium Screen | ![Menu image medium screens](docs-readme/heading-medium.png) |
 | Large Screen | ![Menu image large screens](docs-readme/heading-large.png) |
 
-- __Hero Section__
+### __Hero Section__
 
 At first, the hero image I picked was one color simple watercolor paint, but then I decided it was not striking enough and changed to the current image. I tried to set the heading on the image to specifically not to come on top of white strikes in the painting.
 
@@ -75,7 +104,7 @@ At first, the hero image I picked was one color simple watercolor paint, but the
 
 ![Hero section image](docs-readme/herosection-img.png)
 
-- __About Us Section__
+### __About Us Section__
 
 This section contains straightforward information about the Academy's principles, target audience, and education methods.
 
@@ -85,7 +114,7 @@ The main goal is to give significant information without losing the user's inter
 
 ![About Us section image](docs-readme/aboutus-img.png)
 
-- __Lesson Schedule Section__
+### __Lesson Schedule Section__
 
 The initial design had the Lesson Schedule as part of the About Us section. Later I decided to split it into two different sections for a better layout. 
 
@@ -93,7 +122,7 @@ The initial design had the Lesson Schedule as part of the About Us section. Late
 
 ![Lesson Schedule section image](docs-readme/schedule-img.png)
 
-- __Sign Up Section__
+### __Sign Up Section__
 
 This section contains a signup form for users to easily join the academy.
 
@@ -101,7 +130,7 @@ This section contains a signup form for users to easily join the academy.
 
 ![Sign Up section image](docs-readme/signup-img.png)
 
-- __Footer__
+### __Footer__
 
 The footer contains the contact information and social media links. 
 
@@ -111,11 +140,11 @@ I decided to put this information together so that users can use the social plat
 
 ![Footer image](docs-readme/footer-img.png)
 
-> Contact
+> __Contact__
 
 - Contact information includes the Academy's address, phone number, and email.
 
-> Socials
+> __Socials__
 
 - Social media links are Instagram, Facebook, and YouTube.
 
@@ -145,7 +174,7 @@ Throughout the development process, I tested the project regularly with  [Chrome
 | [58d7b87](https://github.com/SerraKD/isla-art-academy/commit/58d7b8710b32287a6b4519dfe304cdf2de95b2a5)| Add padding to main heading to give breathing space | The main heading was too close to the top left corner of the page, creating a poor visual effect. |
 | [2e7266b](https://github.com/SerraKD/isla-art-academy/commit/2e7266b2e90b16d3b9faee6e6c535e0680a49eed)| Add padding to hero heading to make it clear on smallest mobile device | Some letters of the white text for the heading were coming on top white stikes in the hero image.  I added extra padding and media query for medium-size devices to prevent this issue. | 
 
-### Manual Testing
+### __Manual Testing__
 
 I tested manually all elements and pages on different size devices and browsers, and found no errors besides below ones.
 
@@ -160,7 +189,7 @@ I used 4 different browsers for manual testing and I didn't find issues.
 - Edge
 - Mozilla Firefox
 
-### Validator Testing
+### __Validator Testing__
 
 - [V3C HTML](https://validator.w3.org/) and [V3C CSS](https://jigsaw.w3.org/css-validator/) was used for validator testing.
 
@@ -173,7 +202,7 @@ I used 4 different browsers for manual testing and I didn't find issues.
 | :----: | :----: |  :----: |
 | style.css | ![Css validation result image](docs-readme/css-validator.png) | No error found |
 
-### Accesibility Testing
+### __Accesibility Testing__
 
 - [Page Speed](https://pagespeed.web.dev/) and [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview) was used for accesibility testing.
 

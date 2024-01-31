@@ -272,6 +272,13 @@ footer {
     color: #FFFFFF;
 }
 
+/* Styles 404.html  paragraph */
+#image-section>p {
+    background-color: #FFFFFF;
+    padding: 20px 30px;
+    font-size: large;
+}
+
 /* Media query: to make hero text align with image only (376 and up) */
 @media screen and (min-width: 376px) {
     #hero h2 {

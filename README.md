@@ -26,10 +26,11 @@ Visit the deployed [website](https://serrakd.github.io/isla-art-academy/).
    3. [Accesibility Testing](#accesibility-testing)
    4. [Fixed Bugs](#fixed-bugs)
 6. [Deployment](#deployment)
-7. [Credits](#credits)
+7. [Local Deployment](#local-deployment)
+8. [Credits](#credits)
    1. [Content](#content)
    2. [Media](#media)
-8. [Acknowledgements](#acknowledgements)
+9. [Acknowledgements](#acknowledgements)
 
 ---
 
@@ -282,6 +283,21 @@ I deployed the website on [GitHub](https://github.com/) with following steps;
 4. The page is now deployed.
 
 Visit the deployed website [here](https://serrakd.github.io/isla-art-academy/).
+
+## Local Deployment
+
+__Fork__:
+
+1. Log in to Github and go to projects' repository.
+2. On the top right side of the page, clik on _fork_ button.
+
+__Clone__:
+
+1. Log in to Github and go to projects' repository.
+2. On the top of the file lists, click on _Code_ button.
+3. Whether you want to use HTTPS, SSH key or Github CLI select it,  and then click on copy.
+4. Open the terminal, type **git clone** and paste the URL copied.
+5. Press enter and local clone is now created.
 
 ## Credits
 

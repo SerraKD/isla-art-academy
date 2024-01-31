@@ -25,7 +25,6 @@ body {
     flex-direction: row;
     justify-content: space-evenly;
     z-index: 99;
-    align-items: baseline;
     padding-bottom: 3px;
     box-shadow: 0 4px 4px #550601;
     box-sizing: content-box;

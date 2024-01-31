@@ -102,7 +102,11 @@ At first, the hero image I picked was one color simple watercolor paint, but the
 
 - The main goal of this section is to get the user's attention simply with the intriguing heading and image.
 
-![Hero section image](docs-readme/herosection-img.png)
+| Device | Image |
+| :----: | :----: |
+| Phone | ![Hero section phone image](docs-readme/responsive-hero-mobile.png) |
+| Tablet | ![Hero section tablet image](docs-readme/hero-tablet.png) |
+| Laptop | ![Hero section laptop image](docs-readme/herosection-img.png) |
 
 ### __About Us Section__
 
@@ -112,13 +116,23 @@ The main goal is to give significant information without losing the user's inter
 
 - It encourages users to join the academy while giving them information on how to get in touch.
 
-![About Us section image](docs-readme/aboutus-img.png)
+| Device | Image |
+| :----: | :----: |
+| Phone | ![About Us section phone image](docs-readme/responsive-about-mobile.png) |
+| Tablet | ![About Us section tablet image](docs-readme/about-tablet.png) |
+| Laptop | ![About Us section laptop image](docs-readme/aboutus-img.png) |
 
 ### __Lesson Schedule Section__
 
 The initial design had the Lesson Schedule as part of the About Us section. Later I decided to split it into two different sections for a better layout. 
 
 - This section contains details of the weekly lesson plan and the manner of using the classrooms.
+
+| Device | Image |
+| :----: | :----: |
+| Phone | ![Lesson Schedule section phone image](docs-readme/responsive-schedule-mobile.png) |
+| Tablet | ![Lesson Schedule section tablet image](docs-readme/schedule-tablet.png) |
+| Laptop | ![Lesson Schedule section laptop image](docs-readme/schedule-img.png) |
 
 ![Lesson Schedule section image](docs-readme/schedule-img.png)
 
@@ -128,7 +142,11 @@ This section contains a signup form for users to easily join the academy.
 
 - The user has to fill out the form completely to be able to submit it.
 
-![Sign Up section image](docs-readme/signup-img.png)
+| Device | Image |
+| :----: | :----: |
+| Phone | ![Sign Up section phone image](docs-readme/responsive-signup-mobile.png) |
+| Tablet | ![Sign Up section tablet image](docs-readme/signup-tablet.png) |
+| Laptop | ![Sign Up section laptop image](docs-readme/signup-img.png) |
 
 ### __Footer__
 
@@ -138,7 +156,11 @@ The footer contains the contact information and social media links.
 
 I decided to put this information together so that users can use the social platforms as an option to contact the academy if they choose.
 
-![Footer image](docs-readme/footer-img.png)
+| Device | Image |
+| :----: | :----: |
+| Phone | ![Footer  phone image](docs-readme/responsive-footer-mobile.png) |
+| Tablet | ![Footer tablet image](docs-readme/footer-tablet.png) |
+| Laptop | ![Footer  laptop image](docs-readme/footer-img.png) |
 
 > __Contact__
 

@@ -104,7 +104,7 @@ The Main menu is fixed on top of the page and has the Academy name as a header w
 | Medium Screen | ![Menu image medium screens](docs-readme/heading-medium.png) |
 | Large Screen | ![Menu image large screens](docs-readme/heading-large.png) |
 
-- Nav-bar items has hover effect for large screens.
+- Hover effect for large screens:
 
 ![Laptop nav-bar hover image](docs-readme/menu-hover.png) 
 
@@ -120,33 +120,35 @@ At first, the hero image I picked was one color simple watercolor paint, but the
 
 | Device | Image |
 | :---- | :----: |
-| Phone | ![Hero section phone image](docs-readme/responsive-hero-mobile.png) |
+| Mobile | ![Hero section phone image](docs-readme/responsive-hero-mobile.png) |
 | Tablet | ![Hero section tablet image](docs-readme/hero-tablet.png) |
 | Laptop | ![Hero section laptop image](docs-readme/herosection-img.png) |
 
 ### __About Us Section__
 
-This section contains straightforward information about the Academy's principles, target audience, and education methods.
+This section contains a heading and multiple paragraphs. 
 
-The main goal is to give significant information without losing the user's interest. 
+- It has straightforward information about the Academy's principles, target audience, and education methods.
+
+- The main goal is to give significant information without losing the user's interest. 
 
 - It encourages users to join the academy while giving them information on how to get in touch.
 
 | Device | Image |
 | :---- | :----: |
-| Phone | ![About Us section phone image](docs-readme/responsive-about-mobile.png) |
+| Mobile | ![About Us section phone image](docs-readme/responsive-about-mobile.png) |
 | Tablet | ![About Us section tablet image](docs-readme/about-tablet.png) |
 | Laptop | ![About Us section laptop image](docs-readme/aboutus-img.png) |
 
 ### __Lesson Schedule Section__
 
-The initial design had the Lesson Schedule as part of the About Us section. Later I decided to split it into two different sections for a better layout. 
+This section contains a heading, table, paragraph, details of the weekly lesson plan and the manner of using the classrooms
 
-- This section contains details of the weekly lesson plan and the manner of using the classrooms.
+-  The initial design had the Lesson Schedule as part of the About Us section. Later I decided to split it into two sections for a better layout. 
 
 | Device | Image |
 | :---- | :----: |
-| Phone | ![Lesson Schedule section phone image](docs-readme/responsive-schedule-mobile.png) |
+| Mobile | ![Lesson Schedule section phone image](docs-readme/responsive-schedule-mobile.png) |
 | Tablet | ![Lesson Schedule section tablet image](docs-readme/schedule-tablet.png) |
 | Laptop | ![Lesson Schedule section laptop image](docs-readme/schedule-img.png) |
 
@@ -161,7 +163,7 @@ This section contains a signup form for users to easily join the academy.
 
 | Device | Image |
 | :---- | :----: |
-| Phone | ![Sign Up section phone image](docs-readme/responsive-signup-mobile.png) |
+| Mobile | ![Sign Up section phone image](docs-readme/responsive-signup-mobile.png) |
 | Tablet | ![Sign Up section tablet image](docs-readme/signup-tablet.png) |
 | Laptop | ![Sign Up section laptop image](docs-readme/signup-img.png) |
 
@@ -171,11 +173,11 @@ The footer contains the contact information and social media links.
 
 - Can be reached easily by a user from the main menu _Contact_ link.
 
-I decided to put this information together so that users can use the social platforms as an option to contact the academy if they choose.
+- I decided to put this information together so that users can use the social platforms as an option to contact the academy if they choose.
 
 | Device | Image |
 | :---- | :----: |
-| Phone | ![Footer  phone image](docs-readme/responsive-footer-mobile.png) |
+| Mobile | ![Footer  phone image](docs-readme/responsive-footer-mobile.png) |
 | Tablet | ![Footer tablet image](docs-readme/footer-tablet.png) |
 | Laptop | ![Footer  laptop image](docs-readme/footer-img.png) |
 
@@ -187,7 +189,9 @@ I decided to put this information together so that users can use the social plat
 
 - Social media links are Instagram, Facebook, and YouTube.
 
-- When clicked on, it takes the user to the main page of the social media platform in a new tab. They have a hover effect on large screens for an interactive layout.
+- When clicked on, it takes the user to the main page of the social media platform in a new tab. 
+
+- They have a hover effect on large screens for an interactive layout.
 
 ![Social media links hover image](docs-readme/social-hover.png)
 
@@ -237,12 +241,12 @@ I tested manually all elements and pages on different size devices and browsers,
 
 - [Page Speed](https://pagespeed.web.dev/) and [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview) was used for accesibility testing.
 
-- Pagespeed mobile has a lower performance score due to image size and format. I didn't add any changes because the quality and size of the image are crucial for the website structure.
+- Pagespeed mobile has a lower performance score due to image size, format and Font Awesome Link. I didn't add any changes because the quality and size of the image are crucial for the website structure.
 
-| Device | [Page Speed](https://pagespeed.web.dev/) | [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview) |
-| :----: | :----: | :----: |
-| Mobile | ![ Page speed mobile result image](docs-readme/pagespeed-mobile.png) | ![ Lighthouse mobile result image](docs-readme/lighthouse-mobile.png) |
-| Desktop | ![ Page speed desktop result image](docs-readme/pagespeed-desktop.png) | ![ Lighthouse mobile result image](docs-readme/lighthouse-desktop.png) |
+| Device | [Page Speed](https://pagespeed.web.dev/) | [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview) | Accesibility Score |
+| :----: | :----: | :----: | :----: |
+| Mobile | ![ Page speed mobile result image](docs-readme/pagespeed-mobile.png) | ![ Lighthouse mobile result image](docs-readme/lighthouse-mobile.png) | 100 |
+| Desktop | ![ Page speed desktop result image](docs-readme/pagespeed-desktop.png) | ![ Lighthouse mobile result image](docs-readme/lighthouse-desktop.png) | 100 |
 
 ### Fixed Bugs
 

@@ -313,7 +313,7 @@ __Clone__:
 
 - Social media icons taken from [Font awesome](https://fontawesome.com/).
 
-- Fav icon taken from [favicon](https://favicon.io/emoji-favicons/artist-palette/).
+- Fav icon taken from [Favicon](https://favicon.io/emoji-favicons/artist-palette/).
 
 - Wireframes made with [Balsamiq](https://balsamiq.com/).
 
@@ -326,6 +326,8 @@ __Clone__:
 - [Dev Tools](https://developer.chrome.com/docs/devtools/) was used throughout the project for testing, troubleshooting, and styling.
 
 - Instructions for Markdown styntax taken from [Tapas Adhikary](https://github.com/atapas/markdown-cheatsheet), [Markdown Guide](https://www.markdownguide.org/extended-syntax/) and [Stack Overflow](https://stackoverflow.com/questions/47344571/how-to-draw-checkbox-or-tick-mark-in-github-markdown-table).
+
+- Instructions for local deployment from [Github Docs](https://docs.github.com/).
 
 - To check the grammar of all text content, I used [Grammarly](https://app.grammarly.com/).
 

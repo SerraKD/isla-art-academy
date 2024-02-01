@@ -277,6 +277,11 @@ footer {
     background-color: #FFFFFF;
     padding: 20px 30px;
     font-size: large;
+    border: 10px;
+    border-style: groove;
+    text-align: center;
+    color: black;
+    border-color: #FA1001;
 }
 
 /* Media query: to make hero text align with image only (376 and up) */
